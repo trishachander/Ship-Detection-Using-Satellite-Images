@@ -1,6 +1,6 @@
 # 🚢 Airbus Ship Detection Challenge Solution
 
-An 88.54% accurate CNN-based solution for Airbus Ship Detection Challenge that automates maritime monitoring to prevent illegal activities and accidents at sea through satellite imagery analysis.
+An 88.54% accurate CNN-based solution for Airbus Ship Detection Challenge that carries out maritime monitoring to prevent illegal activities and accidents at sea through satellite imagery analysis.
 
 # 🎯 Project Objective
 Enhance maritime monitoring capabilities by automatically detecting ships in satellite imagery to:
